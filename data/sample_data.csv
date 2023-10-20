@@ -1,0 +1,7 @@
+Table 1
+PatientID,FirstName,LastName,DateOfBirth,Gender,ContactNumber,Address,AdmissionDate
+1,John,Doe,1980-01-15,M,123-456-7890,123 Main St,2023-10-10
+2,Jane,Smith,1990-05-20,F,987-654-3210,456 Elm St,2023-10-11
+3,Mary,Johnson,1985-09-28,F,555-555-5555,789 Oak St,2023-10-12
+4,Robert,Williams,1995-04-03,M,777-777-7777,567 Pine St,2023-10-15
+5,Emily,Brown,1982-11-12,F,888-888-8888,456 Birch St,2023-10-18
